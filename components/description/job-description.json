@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_description_job_descriptions",
+  "info": {
+    "name": "job_description",
+    "icon": "apple-alt"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string",
+      "required": true,
+      "default": "Hello"
+    },
+    "Desc": {
+      "type": "richtext",
+      "default": "Welcome to Rotify"
+    }
+  }
+}

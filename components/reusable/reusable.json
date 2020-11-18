@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_reusable_reusables",
+  "info": {
+    "name": "Reusable",
+    "icon": "align-left"
+  },
+  "options": {},
+  "attributes": {
+    "CTA": {
+      "type": "component",
+      "repeatable": true,
+      "component": "description.job-description"
+    }
+  }
+}
